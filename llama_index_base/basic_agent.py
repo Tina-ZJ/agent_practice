@@ -10,7 +10,7 @@ from llama_index.core.agent import FunctionCallingAgentWorker,AgentRunner, ReAct
 
 
 anthropic_api_key='****'
-mistralai_api_key='****'
+mistralai_api_key='fZxU1KNKA87Q3NAGgpUISFpRWaRy7HYP'
 
 def multiply(a:int, b:int) -> int:
     """Multiple two integers and returns the result integer"""
