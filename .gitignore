@@ -3,7 +3,7 @@ __pycache__/
 
 # Ignore macOS system files
 .DS_Store
-.env
+lang_chain_base/.env
 .idea
 # Ignore env
 venv/
