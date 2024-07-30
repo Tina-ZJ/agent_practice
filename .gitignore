@@ -4,5 +4,6 @@ __pycache__/
 # Ignore macOS system files
 .DS_Store
 .env
+.idea
 # Ignore env
 venv/
